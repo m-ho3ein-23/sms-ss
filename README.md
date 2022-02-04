@@ -1,4 +1,4 @@
 # sms-ss
 
 
-True=ststs
+Trues=ststs
