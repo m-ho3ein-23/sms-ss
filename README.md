@@ -1,7 +1,7 @@
  new app sms bomber :)
 
 # link download
-    <a>dd</a>
+    [I'm an inline-style link](https://www.google.com)
     
     
     
