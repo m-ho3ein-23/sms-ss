@@ -1,4 +1,4 @@
-# new app sms bomber :)
+ new app sms bomber :)
 
 
 
@@ -12,9 +12,9 @@
     kivy / kivymd 
     platform
     requests
-random
-threading
-os /sys
+    random
+    threading
+    os /sys
 
 
 
