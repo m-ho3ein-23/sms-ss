@@ -7,7 +7,7 @@
     
     
     
-# Library and programming languages used:
+### Library and programming languages used:
     python3 / kv
     kivy / kivymd 
     platform
@@ -19,13 +19,13 @@
 
 
 
-# operating system :
+### operating system :
     Androaid 
     Windows
     
     Coming Soon ios linux
 
-# status :
+##### status :
     True=ststs
 
 
