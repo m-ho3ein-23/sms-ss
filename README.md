@@ -11,6 +11,6 @@ Library and programming languages used:
     kivy / kivymd 
     platform
     requests
-    random
-    threading
-    os /sys
+random
+threading
+os /sys
