@@ -4,9 +4,7 @@
 
 ### link download
 
-<a href="ss">ss</a>
-
-[I'm an inline-style link](https://www.google.com)
+<a href="ss">Android</a>
     
     
     
@@ -23,7 +21,7 @@
 
 
 ### operating system :
-    Androaid 
+    Android 
     Windows
     
     Coming Soon ios linux
@@ -55,7 +53,7 @@ Windows :
 <br>
 <br>
 <br>
-androaid:
+android:
 
 <br>
 
