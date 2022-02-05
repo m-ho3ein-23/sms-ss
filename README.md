@@ -1,11 +1,9 @@
  new app sms bomber :)
  
-<button type="button">Click Me!</button>
 
 
 ### link download :
-<a href="https://s21.picofile.com/file/8447406476/apk.rar.html">android</a>
-
+<a href="https://s21.picofile.com/file/8447406476/apk.rar.html">android</a> <br>
 <a href="https://s20.picofile.com/file/8447406218/main.exe.html">windows</a>
     
     
