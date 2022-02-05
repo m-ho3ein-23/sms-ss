@@ -1,10 +1,11 @@
-# status :
-    True=ststs
-
-
-
-
 #new app sms bomber :)
+
+
+
+
+
+
+
 
 Library and programming languages used:
     python3 / kv
@@ -14,3 +15,12 @@ Library and programming languages used:
 random
 threading
 os /sys
+
+
+
+
+
+
+
+# status :
+    True=ststs
