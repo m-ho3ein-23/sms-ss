@@ -1,4 +1,7 @@
-# sms-ss
+# status :
+    True=ststs
 
 
-True=ststs
+
+
+new app sms bomber :)
