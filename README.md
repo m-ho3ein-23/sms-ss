@@ -28,7 +28,7 @@
     2/5/2022
 
 ### operating system :
-    Android 
+    Android [5,6,7,8,9,10,11]
     Windows [7,8,9,10,11]
     
     Coming Soon ios linux
