@@ -22,6 +22,9 @@
     0.3
 
 
+### update :
+    2/5/2022
+
 ### operating system :
     Android 
     Windows
