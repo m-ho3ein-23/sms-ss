@@ -51,6 +51,10 @@ Old graphics card
 
 # Fixed :
 
+
+https://user-images.githubusercontent.com/97868503/152634855-705995db-1ee5-4374-90c0-018cac78fc64.mp4
+
+
 <hr>
  
  
