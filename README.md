@@ -39,7 +39,7 @@
 
 <hr>
 
-# help:
+# error:
 If you encounter the following error
 Old graphics card
 
@@ -47,6 +47,9 @@ Old graphics card
 
 ![ss](https://user-images.githubusercontent.com/97868503/152633257-8bfbcfec-2e68-4ee1-b5b0-5c13da24c117.png)
 
+
+
+# Fixed 
 <hr>
  
  
