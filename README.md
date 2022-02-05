@@ -7,7 +7,7 @@
 
 
 
-Library and programming languages used:
+# Library and programming languages used:
     python3 / kv
     kivy / kivymd 
     platform
