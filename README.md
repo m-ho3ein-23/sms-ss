@@ -49,7 +49,8 @@ Old graphics card
 
 
 
-# Fixed 
+# Fixed :
+
 <hr>
  
  
