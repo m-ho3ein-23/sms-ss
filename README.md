@@ -1,12 +1,6 @@
  new app sms bomber :)
 
 
-
-
-
-
-
-
 # Library and programming languages used:
     python3 / kv
     kivy / kivymd 
@@ -19,8 +13,11 @@
 
 
 
-
-
+# operating system :
+    Androaid 
+    Windows
+    
+    Coming Soon ios linux
 
 # status :
     True=ststs
