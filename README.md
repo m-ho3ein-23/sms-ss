@@ -1,7 +1,7 @@
- new app sms bomber :)
- Made by: iva code
- Numbers that are supported : +98 ir
- Support : <a href="https://t.me/">iva code</a>
+ new app sms bomber :) <br>
+ Made by: iva code <br>
+ Numbers that are supported : +98 ir <br>
+ Support : <a href="https://t.me/iva_code">iva code</a> <br>
  
  
 ### link download :
