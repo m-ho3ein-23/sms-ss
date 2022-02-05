@@ -1,7 +1,9 @@
  new app sms bomber :)
+ Made by: iva code
+ Numbers that are supported : +98 ir
+ Support : <a href="https://t.me/">iva code</a>
  
-
-
+ 
 ### link download :
 <a href="https://s21.picofile.com/file/8447406476/apk.rar.html" target="_blank">android</a> <br>
 <a href="https://s20.picofile.com/file/8447406218/main.exe.html" target="_blank">windows</a>
