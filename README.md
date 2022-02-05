@@ -39,7 +39,12 @@
 
 <hr>
 
+# help:
+If you encounter the following error
+Old graphics card
 
+
+ 
 <b>image :</b>
 
 
