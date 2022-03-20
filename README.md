@@ -34,7 +34,7 @@
     Coming Soon ios linux
 
 ##### status :
-    Trues=ststs
+    True=ststs
 
 
 <hr>
