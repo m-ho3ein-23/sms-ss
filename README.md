@@ -41,8 +41,7 @@ android:
 
 <br>
 
-![Screenshot_۲۰۲۲۰۲۰۴-۱۱۱۷۰۹](https://user-images.githubusercontent.com/97868503/152632491-618581f1-2dd0-45c6-951c-1cf2c05af0bf.png)
-![Screenshot_۲۰۲۲۰۲۰۴-۱۵۱۶۵۸](https://user-images.githubusercontent.com/97868503/152632492-28cc5d06-9c78-4038-9ccb-f37737e0f652.png)
-
+![WhatsApp Image 2022-03-19 at 18 39 18](https://user-images.githubusercontent.com/97868503/159211239-1525ee48-7e69-4c03-9807-5f568718d9e9.jpeg)
+![WhatsApp Image 2022-03-20 at 21 38 16](https://user-images.githubusercontent.com/97868503/159211254-19400751-c942-4d6a-9d17-499faaa8543f.jpeg)
 
 
