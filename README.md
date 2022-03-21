@@ -5,8 +5,7 @@
  
  
 ### link download :
-<a href="https://s21.picofile.com/file/8447406476/apk.rar.html" target="_blank">android</a> <br>
-<a href="https://s20.picofile.com/file/8447406218/main.exe.html" target="_blank">windows</a>
+<a href="https://github.com/m-ho3ein-23/sms-ss/raw/main/sms-bomber.zip" target="_blank">android</a> <br>
     
     
     
@@ -29,9 +28,7 @@
 
 ### operating system :
     Android [5,6,7,8,9,10,11]
-    Windows [7,8,9,10,11]
     
-    Coming Soon ios linux
 
 ##### status :
     True=ststs
@@ -39,38 +36,6 @@
 
 <hr>
 
-# error:
-If you encounter the following error
-Old graphics card
-
-
-
-![ss](https://user-images.githubusercontent.com/97868503/152633257-8bfbcfec-2e68-4ee1-b5b0-5c13da24c117.png)
-
-
-
-# Fixed :
-https://user-images.githubusercontent.com/97868503/152634855-705995db-1ee5-4374-90c0-018cac78fc64.mp4
-
-
-<hr>
- 
- 
-<b>image :</b>
-
-
-Windows :
-
-<br>
-
-
-![Screenshot 2022-02-05 101842](https://user-images.githubusercontent.com/97868503/152632477-2b7d4eff-259c-44bb-85bc-74e1407cbd2a.png)
-
-
-
-
-<br>
-<br>
 <br>
 android:
 
