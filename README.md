@@ -27,7 +27,7 @@
     5/2/2022
     21/3/2022
 ### operating system :
-    Android [5,6,7,8,9,10,11]
+    Android [5,6,7,8,9,10,11,12]
     
 
 ##### status :
