@@ -31,7 +31,7 @@
     
 
 ##### status :
-    True=sststs
+    True=ststs
 
 
 <hr>
