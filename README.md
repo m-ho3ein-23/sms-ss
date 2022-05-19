@@ -31,7 +31,7 @@
     
 
 ##### status :
-    Truse=ststs
+    True=ststs
 
 
 <hr>
